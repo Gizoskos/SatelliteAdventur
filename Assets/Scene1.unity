@@ -318,6 +318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
+    - target: {fileID: 3200913550576474705, guid: d4ca6d2558d4aa04680fcd89ace5e06b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ad4f3f1732faa09469d4c68a1e579e6b, type: 2}
     - target: {fileID: 4621119354598706947, guid: d4ca6d2558d4aa04680fcd89ace5e06b, type: 3}
       propertyPath: m_RootOrder
       value: 2
